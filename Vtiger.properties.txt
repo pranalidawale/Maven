@@ -1,0 +1,13 @@
+ url https://demo.vtiger.com/vtigercrm
+ browser FireFox
+ 
+ CampaignName Wipro
+ TargetAudience 50
+ Sponsor intel
+ TargetSize 100
+ ExpectedCloseDate  14/5/2020
+ ExpectedSalesCount  60
+ ActualSalesCount  40
+ ExpectedResponseCount  30
+ ActualResponseCount  15
+ 
